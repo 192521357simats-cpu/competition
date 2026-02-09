@@ -1,0 +1,7 @@
+{
+  "name": "Veritas AI: Forensic Lab",
+  "description": "Direct-to-API forensic media analysis tool for detecting AI-generated content and deepfakes using Gemini 3 Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
